@@ -1,6 +1,6 @@
 ## Karl Broman&rsquo;s website
 
-See [my site](https://witek.kedra.org).
+See [my site](witek.kedra.org).
 
 ---
 
