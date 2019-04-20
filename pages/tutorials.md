@@ -4,7 +4,7 @@ title: tutorials
 description: Karl Broman's tutorials
 ---
 
-- [initial steps toward reproducible research](https://kbroman.org/steps2rr)
+- [html TEST](https://witek.kedra.org/pages/test.html)
 - [organizing data in spreadsheets](https://kbroman.org/dataorg)
 - [git/github guide](https://kbroman.org/github_tutorial)
 - [minimal make](https://kbroman.org/minimal_make)
