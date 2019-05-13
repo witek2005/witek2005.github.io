@@ -1,10 +1,10 @@
 ---
 layout: page
-title: about
+title: O Słynnym Człowieku
 description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
 ---
 
-Karl Broman is Professor in the
+Witek Kędra jest profesorem prawa na: 
 [Department of Biostatistics &amp; Medical Informatics](https://www.biostat.wisc.edu)
 at the University of Wisconsin&ndash;Madison;
 research in statistical genetics; developer of
