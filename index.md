@@ -11,7 +11,7 @@ keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical g
           <li><a href="https://mail.google.com/mail/u/0/#inbox">mail</a></li>
           <li><a href="https://www.youtube.com/?hl=pl&gl=PL">Youtube</a></li>
           <li><a href="https://github.com/kbroman">github</a></li>
-          <li><a href="https://paper.io"><img src="assets/paperio.jfif"></a></li>
+          <li><a href="https://paper-io.com"><img src="assets/paperio.jfif" width="42"></a></li>
           <li><a href="https://twitter.com/kwbroman">@kwbroman</a></li>
       </ul>
   </div>
