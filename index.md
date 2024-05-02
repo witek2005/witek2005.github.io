@@ -4,19 +4,12 @@
     <link rel="SHORTCUT ICON" href="/assets/me.ico">
     <meta http-equiv="Content-Type"/>
   </head>
-  <body style="background-color:black;">
-    <h1> <strong> <center>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <p style="color:red">
-
-      PRIMA APRILIS <br/>
-      :)
-      </p>
-      <br/>
-      <iframe width="420" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ"> </iframe>
-   </center> </strong> </h1> 
+  <body>
+    <center>
+      <h1>Witold Tadeusz Piotr **Kędra**</h1>
+      Finalista II stopnia *XV Olimpiady Matematycznej Juniorów* (2020) (Lockdown koronawirusowy - brak finału)
+      Laureat IX miejsca (pojedyncze ex aequo) *XXII Olimpiady Lingwistyki Matematycznej* (2024)
+      Absolwent *Szkoły Podstawowej "Wierchy" Stowarzyszenia STERNIK Kraków* oraz *V Liceum Ogólnokształcącego im. Augusta Witkowskiego w Krakowie* 
+   </center>
   </body>
 </html>
